@@ -1,0 +1,5 @@
+{
+  "presets": ["env"]
+}
+
+// I learned how to create a folder in the root directory using the touch .babelrc in the command line of the terminal. This specifies that we are transpiling code from ES6+ source.

@@ -1,0 +1,18 @@
+p {
+      font-family: Arial;
+    }
+h1 {
+  color: maroon;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+
+/* I learned how to create an id selector in CSS. To do so CSS prepends the id name with a hashtag. */

@@ -1,0 +1,14 @@
+p {
+      font-family: Arial;
+    }
+h1 {
+  color: maroon;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+
+/* I learned that the class attribute in HTML can suport multiple names by seperating them with a space. */

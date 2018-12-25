@@ -1,0 +1,29 @@
+p {
+      font-family: Arial;
+    }
+h1 {
+  color: maroon;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+h2.destination {
+  font-family: cursive;
+}
+.description h5 {
+  color: teal;
+}
+
+/* I learned about selecting HTML elements that are nested within other HTML elements. This is done by using the class selector, space and then the tag selector. This is another way to create more specificity. */

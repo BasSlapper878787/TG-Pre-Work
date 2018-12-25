@@ -1,0 +1,1 @@
+// I learned about the fundamentals of variables in JavaScript. You can create a variable with a descriptive name. Store or update information stored in a variable. Reference or “get” information stored in a variable.*/

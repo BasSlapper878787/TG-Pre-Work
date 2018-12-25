@@ -1,0 +1,1 @@
+/* I learned about the programming language called JavaScript. This is the language that powers all the dynamic behaviors and functions on the web.*/

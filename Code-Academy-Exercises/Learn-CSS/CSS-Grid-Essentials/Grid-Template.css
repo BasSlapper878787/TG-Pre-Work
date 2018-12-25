@@ -1,0 +1,16 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template: 40% 50% 50px/ 100px 50% 200px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+
+/* I learned about the grid-template property in CSS. This does the work of the grid-template-rows and grid-template-columns properties in a single property. Values before the slash determine rows and the values after determine columns. */

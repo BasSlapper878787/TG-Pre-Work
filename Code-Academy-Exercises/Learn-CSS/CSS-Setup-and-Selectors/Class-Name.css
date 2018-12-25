@@ -1,0 +1,11 @@
+p {
+      font-family: Arial;
+    }
+h1 {
+  color: maroon;
+}
+.title {
+  color: teal;
+}
+
+/* I learned about css class attribute selector, which is a period prepended to the attribute name. Class is a common example of an attrbute that can be selected in css, this will allow you to select specific elements in HTML. */

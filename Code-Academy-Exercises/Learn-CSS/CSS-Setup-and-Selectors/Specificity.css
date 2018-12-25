@@ -1,0 +1,23 @@
+p {
+      font-family: Arial;
+    }
+h1 {
+  color: maroon;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* I learned about specificity in CSS. The ID selector is the most specific and will override the tag and class styles set for that element. When the file grows with code many elements have IDs which makes it difficult to edit. To make a CSS file easier to edit it best to style with the lowest specificity possible. */

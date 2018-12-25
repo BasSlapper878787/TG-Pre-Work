@@ -1,0 +1,1 @@
+// I learned about conditional statements in JavaScript, which consists of: if, else if, and else statements, comparison operators, logical operators, truthy vs falsy values, ternary operators, and the switch statement.

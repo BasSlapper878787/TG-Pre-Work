@@ -1,0 +1,1 @@
+//I learned about the fetch() function in JavaScript. This allows you to create a request object that contains relevant information that an API needs. It sends that request object to the API endpoint provided. It also returns a promise that ultimately resolves to a response object, which contains the status of the promise with information the API sent back
